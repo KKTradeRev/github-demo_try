@@ -1,1 +1,2 @@
 First message
+Trying with another message to check update and merge on Git
